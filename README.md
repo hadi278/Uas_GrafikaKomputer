@@ -2,5 +2,5 @@
 objekc membuat kamar 
 Kelompok 7
 hadi Rachmat Supindar,
-Haris Restu sendang, 
+Haris Ristu sendang, 
 Fariz Putra Rizki 
